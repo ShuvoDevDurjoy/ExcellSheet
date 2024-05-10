@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ExcellSheet/static/css/main.92ade9b6.css",
+    "main.js": "/ExcellSheet/static/js/main.8732d45a.js",
+    "index.html": "/ExcellSheet/index.html",
+    "main.92ade9b6.css.map": "/ExcellSheet/static/css/main.92ade9b6.css.map",
+    "main.8732d45a.js.map": "/ExcellSheet/static/js/main.8732d45a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92ade9b6.css",
+    "static/js/main.8732d45a.js"
+  ]
+}
